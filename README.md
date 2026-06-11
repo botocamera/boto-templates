@@ -124,7 +124,7 @@ New categories can be declared in `manifest.json` under `categories: [...]`:
 The app composes the final image URL as `baseImageURL + image`, so the example below resolves to:
 
 ```
-https://cdn.jsdelivr.net/gh/varghese-ruben/boto-templates@main/images/tpl_cinematic_neon.jpg
+https://cdn.jsdelivr.net/gh/botocamera/boto-templates@main/images/tpl_cinematic_neon.jpg
 ```
 
 ---

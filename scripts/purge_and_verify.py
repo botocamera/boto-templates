@@ -3,7 +3,7 @@
 
 Usage examples:
   python3 scripts/purge_and_verify.py
-  python3 scripts/purge_and_verify.py --owner varghese-ruben --repo boto-templates
+  python3 scripts/purge_and_verify.py --owner botocamera --repo boto-templates
 
 This performs a GET against the purge endpoint, waits a few seconds,
 then fetches the CDN URL and prints the first 3 lines of the manifest.
@@ -22,7 +22,7 @@ def http_get(url, timeout=15):
 
 def main():
     parser = argparse.ArgumentParser(description="Purge jsDelivr and verify manifest via CDN")
-    parser.add_argument("--owner", "-o", default="varghese-ruben")
+    parser.add_argument("--owner", "-o", default="botocamera")
     parser.add_argument("--repo", "-r", default="boto-templates")
     parser.add_argument("--branch", "-b", default="main")
     parser.add_argument("--manifest", "-m", default="manifest.json")
