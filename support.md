@@ -4,7 +4,7 @@ Need help with Boto? You're in the right place.
 
 ## Get in touch
 
-The fastest way to reach us is by email: **{{SUPPORT_EMAIL}}**
+The fastest way to reach us is by raising a support request - [Submit](https://forms.gle/huZt7ssiDjeF3QoB7)
 
 When you write in, please include:
 
@@ -36,7 +36,7 @@ Settings shows total photo storage used. To clear remote template image cache: S
 No. Boto stores photos on the device that captured them. If you saved them to your iOS Photos library (the default), those are synced by iCloud Photos like any other photo.
 
 **How do I report a bug or suggest a feature?**
-Email us at **{{SUPPORT_EMAIL}}** with the details listed above. Bug reports including the steps to reproduce help us fix things quickly.
+Raise a [request](https://forms.gle/huZt7ssiDjeF3QoB7) with the details listed above. Bug reports including the steps to reproduce help us fix things quickly.
 
 ## Privacy
 
