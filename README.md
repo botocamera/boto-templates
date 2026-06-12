@@ -1,6 +1,6 @@
 # Boto Templates
 
-Remote photo recipes for the [Boto Camera](https://github.com/varghese-ruben/BotoCamera) iOS app.
+Remote photo recipes for the [Boto Camera](https://github.com/botocamera/boto-templates) iOS app.
 
 This repository is the **first-party content delivery channel** for Boto Camera. The app fetches `manifest.json` from this repo at launch (via [jsDelivr](https://www.jsdelivr.com/)), caches it locally, and merges these recipes with the templates built into the app binary. Everything here ships authored, reviewed, and maintained by the Boto Camera developer — there is no public submission process, no third-party content, and no user-generated content surfaced through this manifest.
 
